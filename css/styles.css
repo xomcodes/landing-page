@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+}
+.btn {
+  margin: 3% 3% 5% 0;
+  color: white;
+}
+
+h1 {
+  font-family: "Merriweather", sans-serif;
+  
+}
+
+.different{
+padding-bottom: 5%;
+}
+p{
+  color: grey;
+}
+
+.title_p{
+  color: black;
+}
+
+
+.Xf {
+  width: 30%;
+  height: 30%;
+}
+
+#title { 
+  background-image: url("../images/image_cover.jpg");
+  margin: 0px 0px 10px;
+  height: auto;
+  padding-bottom: 20%;
+}
+/* Features Section */
+
+.features-box {
+  padding: 5%;
+}
+.icon {
+  color: orange;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: orangered;
+}
+
+/* Platform Section */
+/* #platform {
+  margin-top: 5%;
+} */
+.img-platform {
+  float: right;
+  width: 100%;
+}
+.img-platform2 {
+  float: left;
+  width: 70%;
+  height: 70%;
+}
+
+.con-platform {
+  width: 70%;
+  margin: auto;
+  padding: 5%;
+}
+
+/* Testimonial Section */
+.man {
+  border-radius: 100%;
+  width: 6rem;
+  height: 5rem;
+  float: none;
+
+}
+
+.woman {
+  border-radius: 100%;
+  width: 6rem;
+  height: 5rem;
+}
+
+/* Semi-Footer Section */
+
+.orange {
+  background-color: orange;
+  padding: 5% 0 4% 0;
+  font-style:italic;
+  color: white; 
+}
+
+
+#Semi_footer {
+  padding-top: 4%;
+}
+
+/* Footer Section */
+#footer {
+  padding-top: 10%;
+}
+
+.intro {
+  width: 80%;
+  margin: auto;
+}
